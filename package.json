@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "simple chat using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Andrew Minai",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.7",
+    "socket.io": "^2.2.0"
+  }
+}
